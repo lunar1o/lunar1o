@@ -1,7 +1,7 @@
 
 # 👋 Hello
 
-My name is Isabelle Oliveira, I am a Software Development student and I am graduating in Fullstack Design at EBAC. Im a passionate UXUI designer, focusing in User Experience and Creation of responsive mobile and web interfaces.
+My name is Isabelle Oliveira, I am a Software Development student and I graduate in Fullstack Design at EBAC. Im a passionate UXUI designer, focusing in User Experience and Creation of responsive mobile and web interfaces.
 I fell in love with developing responsive prototypes and improving the user experience more and more! Today, I work with UX/UI and Fullstack development. I conduct usability testing research studying responsive design and prototyping, as well as the incredible part of developing multi-platform applications and interfaces working on front-end and back-end.
 
 # 🚀 Expertise
